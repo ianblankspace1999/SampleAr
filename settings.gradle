@@ -1,0 +1,1 @@
+include ':app', ':craftar-augmented-reality-sdk-android', ':sanselan-0_97-android-1.0.0'

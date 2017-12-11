@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleAr.iml" filepath="$PROJECT_DIR$/SampleAr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/craftar-augmented-reality-sdk-android/craftar-augmented-reality-sdk-android.iml" filepath="$PROJECT_DIR$/craftar-augmented-reality-sdk-android/craftar-augmented-reality-sdk-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sanselan-0_97-android-1.0.0/sanselan-0_97-android-1.0.0.iml" filepath="$PROJECT_DIR$/sanselan-0_97-android-1.0.0/sanselan-0_97-android-1.0.0.iml" />
+    </modules>
+  </component>
+</project>
